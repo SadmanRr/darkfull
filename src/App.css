@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+
+  overflow-x: hidden;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+body{
+ 
+  font-family: 'Manrope', sans-serif;
+  overflow-x: hidden;
+}
+
+body.light{
+  background: #ACACAC;
+}
+body.dark{
+  background: #ACACAC;
+}
+

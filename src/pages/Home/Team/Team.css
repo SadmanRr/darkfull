@@ -1,0 +1,90 @@
+.team{
+    background-color: rgba(119, 128, 128, 0.555);
+}
+.team-text{
+    color: rgba(51, 48, 48, 0.397);
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.team-card{
+    background: #002A57;
+    border-radius: 20px;
+    width: 324px;
+    height: 350px;
+}
+.team-img{
+    width: 126px !important;
+    height: 120px;
+}
+.team-card h6,button{
+    color: #EDFBFF;
+}
+
+.team-star i{
+  color: tomato;
+  margin: 1px;
+}
+.team-social{
+    position: absolute;
+    right: 12px;
+    top: 12px;
+}
+.team-social i{
+    width: 26px;
+    height: 26px;
+    border-radius: 50%; 
+    background-color: #ffffff;
+    margin-top: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* swiper js  */
+
+.swiper-slider{
+    background-color: transparent !important;
+}
+
+.swiper {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+  
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
